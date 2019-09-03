@@ -1,0 +1,9 @@
+Api gatwey brinda seguridad en las conexiones
+
+Lamnda es donde se almacenas "metodos " con codigo especifico para realizar una accion
+
+DynamicDB se manejan las bases de datos de todo tipo
+
+Cloud Watch sirve para monitoriar si estan funcionando mis servicios 
+
+CloudFormacion 
