@@ -3,5 +3,5 @@ Cambio por ejemplo 1
 =======
 linea cambiada 1
 >>>>>>> da7d9e8f54bae7dcb2fbe5ed6860ae9abf19a3fe
-ejemplo 2
+Cambio por ejemplo 2
 ejemplo 3
