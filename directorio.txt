@@ -9,18 +9,11 @@ slm_y_bmv@hotmail.com, Salvador de Luna Macias
 lupita.sp18@outlook.com, MARIA GUADALUPE SOLEDAD PEREZ
 ruizgalvanivan@gmail.com, RUIZ GALVAN IVAN
 alepr.2616@gmail.com, ALEJANDRA PEREZ RODRIGUEZ
-
-=======>>>>>>> 2acd34a6c0d9f064eebfded84f701b3e067e0695
 artcher506@gmail.com, ARTURO IBARRA DE LUNA
 lidiquintanilla1@gmail.com, SALAMANCA QUINTANILLA ALMA LIDIA,
 carolina.salamancaquintanilla1@gmail.com, SALAMANCA QUINTANILLA CAROLINA,
 artcher506@gmail.com, ARTURO IBARRA DE LUNA
-<<<<<<< HEAD
 joel_tdd@hotmail.com, JOEL ERNESTO DAMASCO PALOS
-
-=======
->>>>>>> c1b93c2bd087e0e4578986697265a7c6f9645f64
-=======
 lidiquintanilla1@gmail.com, SALAMANCA QUINTANILLA ALMA LIDIA,
 carolina.salamancaquintanilla1@gmail.com, SALAMANCA QUINTANILLA CAROLINA,
 artcher506@gmail.com, ARTURO IBARRA DE LUNA
@@ -28,5 +21,4 @@ joel_tdd@hotmail.com, JOEL ERNESTO DAMASCO PALOS
 torhec369@outlook.com, HECTOR GONZALEZ MOJARRO
 brendardzhdz3067@gmail.com BRENDA RODRIGUEZ HERNANDEZ 
 14151231@aguascalientes.tecnm.mx FRANCISCO JAVIER REYES LÓPEZ
->>>>>>> 4d9da583ff7af2d6e62e4fd3aa4e259b275cedb4
->>>>>>> 2acd34a6c0d9f064eebfded84f701b3e067e0695
+mluevanogonzalez@gmail.com, MARCOS JULIAN LUEVANO GONZALEZ
