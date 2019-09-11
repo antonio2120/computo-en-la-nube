@@ -21,4 +21,8 @@ joel_tdd@hotmail.com, JOEL ERNESTO DAMASCO PALOS
 torhec369@outlook.com, HECTOR GONZALEZ MOJARRO
 brendardzhdz3067@gmail.com BRENDA RODRIGUEZ HERNANDEZ 
 14151231@aguascalientes.tecnm.mx FRANCISCO JAVIER REYES LÓPEZ
+<<<<<<< HEAD
 suggarzitha_168k@hotmail.com, DE LA TORRE ELIZALDE KAREN VIRGINIA
+=======
+mluevanogonzalez@gmail.com, MARCOS JULIAN LUEVANO GONZALEZ
+>>>>>>> 67f51980dc7e6dc182cf156f4e7c1c1bfc48f4ed
