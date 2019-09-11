@@ -5,5 +5,12 @@ teresahdzl@hotmail.com, Teresa Guadalupe Hernandez Lopez
 camilaandreajacqueline@hotmail.com, ANDREA JACQUELINE CERVANTES JIMENEZ
 m4g3nt4@outlook.com, DANIEL MONDRAGON ORTEGA
 jaimito1189@gmail.com, JOSTHING RAVI JAIME TREJO
+camilaandreajacqueline@hotmail.com, ANDREA JACQUELINE CERVANTES JIMENEZ
 lupita.sp18@outlook.com, MARIA GUADALUPE SOLEDAD PEREZ
+<<<<<<< HEAD
+=======
+artcher506@gmail.com, ARTURO IBARRA DE LUNA
+
+
+>>>>>>> d8106bc0e28b48a4b6a297220677ac26c53cab3b
 
