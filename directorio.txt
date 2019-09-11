@@ -1,21 +1,13 @@
-antonio2120@hotmail.com, LUIS ANTONIO CRUZ MACIAS
+﻿antonio2120@hotmail.com, LUIS ANTONIO CRUZ MACIAS
 15151228@aguascalientes.tecnm.mx, RENOVATO GONZÁLEZ MARÍA NIEVES
 camilaandreajacqueline@hotmail.com, ANDREA JACQUELINE CERVANTES JIMENEZ
 teresahdzl@hotmail.com, Teresa Guadalupe Hernandez Lopez
-<<<<<<< HEAD
 Brian_BMX_10@live.com.mx, BRIAN MARTIN GUERRA GARCIA
-=======
->>>>>>> c1b93c2bd087e0e4578986697265a7c6f9645f64
 m4g3nt4@outlook.com, DANIEL MONDRAGON ORTEGA
 jaimito1189@gmail.com, JOSTHING RAVI JAIME TREJO
 slm_y_bmv@hotmail.com, Salvador de Luna Macias
 lupita.sp18@outlook.com, MARIA GUADALUPE SOLEDAD PEREZ
-artcher506@gmail.com, ARTURO IBARRA DE LUNA
-<<<<<<< HEAD
-lidiquintanilla1@gmail.com, SALAMANCA QUINTANILLA ALMA LIDIA
-carolina.salamancaquintanilla1@gmail.com, SALAMANCA QUINTANILLA CAROLINA
-=======
 lidiquintanilla1@gmail.com, SALAMANCA QUINTANILLA ALMA LIDIA,
 carolina.salamancaquintanilla1@gmail.com, SALAMANCA QUINTANILLA CAROLINA,
 artcher506@gmail.com, ARTURO IBARRA DE LUNA
->>>>>>> c1b93c2bd087e0e4578986697265a7c6f9645f64
+joel_tdd@hotmail.com, JOEL ERNESTO DAMASCO PALOS
