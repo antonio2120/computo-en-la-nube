@@ -1,4 +1,4 @@
-antonio2120@hotmail.com, LUIS ANTONIO CRUZ MACIAS
+﻿antonio2120@hotmail.com, LUIS ANTONIO CRUZ MACIAS
 15151228@aguascalientes.tecnm.mx, RENOVATO GONZÁLEZ MARÍA NIEVES
 camilaandreajacqueline@hotmail.com, ANDREA JACQUELINE CERVANTES JIMENEZ
 teresahdzl@hotmail.com, Teresa Guadalupe Hernandez Lopez
@@ -10,3 +10,4 @@ artcher506@gmail.com, ARTURO IBARRA DE LUNA
 lidiquintanilla1@gmail.com, SALAMANCA QUINTANILLA ALMA LIDIA,
 carolina.salamancaquintanilla1@gmail.com, SALAMANCA QUINTANILLA CAROLINA,
 artcher506@gmail.com, ARTURO IBARRA DE LUNA
+joel_tdd@hotmail.com, JOEL ERNESTO DAMASCO PALOS
