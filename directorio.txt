@@ -1,4 +1,4 @@
-antonio2120@hotmail.com, LUIS ANTONIO CRUZ MACIAS
+﻿antonio2120@hotmail.com, LUIS ANTONIO CRUZ MACIAS
 camilaandreajacqueline@hotmail.com, ANDREA JACQUELINE CERVANTES JIMENEZ
 teresahdzl@hotmail.com, Teresa Guadalupe Hernandez Lopez
 camilaandreajacqueline@hotmail.com, ANDREA JACQUELINE CERVANTES JIMENEZ
@@ -37,11 +37,9 @@ brendardzhdz3067@gmail.com BRENDA RODRIGUEZ HERNANDEZ
 suggarzitha_168k@hotmail.com, DE LA TORRE ELIZALDE KAREN VIRGINIA
 mluevanogonzalez@gmail.com, MARCOS JULIAN LUEVANO GONZALEZ
 iisaac_amaya@hotmail.com, MARIA DEL CONSUELO ISAAC AMAYA
-<<<<<<< HEAD
-zulmalizette@gmail.com, ZULMA LIZETTE SANCHEZ GUITRON
-=======
 siniestropuertitas@gmail.com, LUIS FERNANDO MARTINEZ TRISTAN
 terehdzl.lop@gmail.com, Teresa Guadalupe Hernandez Lopez
 ricardovt71@gmail.com, RICARDO VAZQUEZ TAVERA
+zulmalizette@gmail.com, ZULMA LIZETTE SANCHEZ GUITRON
 
 >>>>>>> 684a3db353ac10058350a9f059060172ed5fd7ba
